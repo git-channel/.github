@@ -1,4 +1,4 @@
-![welcome](xp.webp)  
+![welcome](/xp.webp)  
 ここはGithubを使った掲示板です  
 ゆっくりしていってね!!!  
 # どうやって使うん?
